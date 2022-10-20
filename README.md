@@ -1,6 +1,6 @@
 # Classificação de emoção de tweets com Python
 
-Esse projeto consistem em ler e identificar sentimentos (positivo, negativo, neutro) associados a tweets criados no ano de 2017 no estado de Minas Gerais. Ele foi baseado no curso Análise de Mineração de texto + classificação de emoção (NLP). Os dados foram obtidos do site https://www.kaggle.com/datasets/leandrodoze/tweets-from-mgbr e são tweets de usuários de Minas Gerais, Brasil, entre dezembro de 2016 e fevereiro de 2017.
+Esse projeto consistem em ler e identificar sentimentos (positivo, negativo, neutro) associados a tweets criados no ano de 2017 no estado de Minas Gerais. Ele foi baseado no curso Análise de Mineração de texto + classificação de emoção (NLP) realizado pela More Academy. Os dados foram obtidos do site https://www.kaggle.com/datasets/leandrodoze/tweets-from-mgbr e são tweets de usuários de Minas Gerais, Brasil, entre dezembro de 2016 e fevereiro de 2017.
 
 ## Planejamento da Solução
 
